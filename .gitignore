@@ -1,0 +1,12 @@
+# .gitignore
+
+# Ignore the dataset folder
+data/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders (if any)
+tfenv/
+.venv/
